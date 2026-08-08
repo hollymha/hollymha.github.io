@@ -1,0 +1,157 @@
+body {
+	font-family: Raleway, sans-serif;
+	font-size: 18px;
+}
+article {
+	padding: 64px 0 0;
+}
+nav {
+	font-weight: bold;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 30px;
+}
+.dropdown-menu {
+	font-size: 30px;
+}
+.dropdown-menu li a:hover {
+	background-color: #081642;
+	color: white;
+}
+h1 { font-weight: bold; 
+	font-family: 'Reenie Beanie', cursive;
+}
+#coverDrawing {
+	background-color: white;
+	padding: 30px;
+}
+/*********************************
+*********************************
+	Index.html
+*********************************
+*********************************/
+/*General*/
+.wrapper {
+	width: 80%;
+	margin: auto;
+	padding: 20px;
+	min-height: 100%;
+}
+.wrapper p {
+	padding: 20px 0;
+}
+body {
+	height: 100%;
+}
+/*Front page*/
+header {
+	margin: 25px auto;
+}
+#frontPage {
+	background-color: #081642;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 35px;
+	min-height: 100%;
+}
+#frontPage a{
+	color: white;
+}
+
+#author {
+	font-size: 40px;
+	color: white;
+	padding: 15px;
+	
+}
+#bookHome {
+	background-color: #081642;
+}
+#contents {
+	padding: 64px 0px 20px;
+	background-color: #081642;
+}
+#contentsWrapper {
+	color: white;
+}
+/*Therapy poem*/
+#intro {
+background-color: #081642;
+color: white;
+font-family: 'Reenie Beanie', cursive;
+font-size: 30px;
+}
+/*Adolescent Hem poem*/
+#adolescentHem {
+	background-color: #a7bdee;
+}
+/*Something poem*/
+#something {
+	background-color: #edd3ec;
+}
+/*Garage poem*/
+#garage {
+	background-color: #BCBCBC;
+}
+/* Wire poem */
+#wire {
+	background-color: #ede765
+}
+#wireSmallWrapper {
+	max-width: 400px;
+}
+/* Wretched poem*/
+#wretched {
+	background-color: #b8f7b0;
+}
+#wretchedWrapper {
+	overflow: hidden;
+}
+#wretchedImg {
+	float: right;
+	padding: 20px;
+}
+/*Climb poem */
+#theClimb {
+	background-color: #CB913F;
+	padding-bottom:64px;
+}
+#theClimbWrapper {
+	max-width: 50%;
+}
+/*Flight poem*/
+#flight {
+	background-color: #081642;
+	padding-bottom: 64px;
+}
+#flightWrapper {
+	color:white;
+	width: 50%;
+}
+/*Footer*/
+footer {
+	padding: 20px;
+	text-align: center;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 30px;
+}
+/*********************************
+**********************************
+			About
+**********************************
+*********************************/
+.paddedDiv{
+	padding: 50px;
+	max-width: 500px;
+	
+	background-color: #081642;
+}
+#about {
+	color: white;
+	background-color:#081642;
+}
+#shadow {
+	background-color: white;
+	padding: 30px;
+}
+.title {
+	text-decoration: underline;
+}
